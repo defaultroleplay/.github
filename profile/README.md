@@ -1,4 +1,4 @@
-# 🔮 Default Roleplay
+# Default Roleplay 2023
 
 
 👋 Bem-vindo ao repositório do projeto DefaultRoleplay, um servidor de roleplay para a plataforma Multi Theft Auto (MTA).
