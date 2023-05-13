@@ -10,4 +10,5 @@
 💻 Este repositório contém o código fonte do DefaultRoleplay, bem como informações sobre como instalá-lo e configurá-lo em sua máquina local. Estamos sempre trabalhando para melhorar o servidor e adicionar novos recursos e funcionalidades, e convidamos você a se juntar a nós nesta jornada.
 
 🙏 Agradecemos a sua visita e esperamos que você goste de jogar no DefaultRoleplay tanto quanto nós gostamos de desenvolvê-lo. Se você tiver alguma dúvida ou comentário, não hesite em entrar em contato conosco.
+
 🔮 DefaultRoleplay - Produced by CatStudio's
