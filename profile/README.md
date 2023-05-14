@@ -1,5 +1,6 @@
 # Default Roleplay 2023
-![defaultbanner](https://github.com/defaultroleplay/.github/assets/116700259/958d73c0-9fc5-44ff-b8b1-53fa170a0891)
+![defaultbanner](https://github.com/defaultroleplay/.github/assets/116760542/5f967fea-60da-44c6-8148-4b2397689def)
+
 
 
 👋 Bem-vindo ao repositório do projeto DefaultRoleplay, um servidor de roleplay para a plataforma Multi Theft Auto (MTA).
