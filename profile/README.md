@@ -11,4 +11,4 @@
 
 🙏 Agradecemos a sua visita e esperamos que você goste de jogar no Default Roleplay tanto quanto nós gostamos de desenvolvê-lo. Se você tiver alguma dúvida ou comentário, não hesite em entrar em contato conosco.
 
-🔮 DefaultRoleplay - Produced by CatStudio's
+🔮 Default Roleplay - Produced by CatStudio's
