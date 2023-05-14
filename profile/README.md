@@ -3,7 +3,7 @@
 
 
 
-👋 Bem-vindo ao repositório do projeto DefaultRoleplay, um servidor de roleplay para a plataforma Multi Theft Auto (MTA).
+👋 Bem-vindo ao repositório do projeto Default Roleplay, um servidor de roleplay para a plataforma Multi Theft Auto (MTA).
 
 👨‍💻 Somos uma equipe dedicada de desenvolvedores apaixonados por jogos de roleplay e comprometidos em criar uma experiência de jogo única e imersiva para nossos jogadores. O Default Roleplay é um servidor de roleplay que oferece aos jogadores a oportunidade de explorar um mundo virtual cheio de possibilidades, interagir com outros jogadores e construir suas próprias histórias.
 
@@ -13,4 +13,4 @@
 
 🙏 Agradecemos a sua visita e esperamos que você goste de jogar no Default Roleplay tanto quanto nós gostamos de desenvolvê-lo. Se você tiver alguma dúvida ou comentário, não hesite em entrar em contato conosco.
 
-🔮 Default Roleplay - Produced by CatStudio's
+Default Roleplay - Produced by CatStudio's
